@@ -1,7 +1,6 @@
 * {
   @include box-sizing;
   line-height: 1.5;
-  padding: 30;
 }
 
 html,
@@ -21,7 +20,7 @@ html {
 }
 
 body {
-  -webkit-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 80%;
 }
 
 h1,
