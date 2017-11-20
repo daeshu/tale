@@ -1,8 +1,8 @@
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:day:month-:year-/:title
 
 # Setup
-title:          Tale
+title:          Escobar
 paginate:       5
 baseurl:        "/"
 url:            "https://blog.escobar.eu.org"
@@ -17,9 +17,9 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Daniel Escobar
+  url:          https://escobar.eu.org
+  email:        info@escobar.eu.org
 
 # Custom vars
 version:        3.4.1
