@@ -1,5 +1,5 @@
 # Permalinks
-permalink:      /:day:month-:year-/:title
+permalink:      /:day-:month-:year/:title
 
 # Setup
 title:          Escobar
